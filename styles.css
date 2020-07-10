@@ -1,0 +1,15 @@
+body {background: linear-gradient(to bottom right, #7A7FBA, #11C373);}
+h2, h1, p {color: white;}
+h1, h2, p {text-align: center;}
+h1, h2, p {font-family: 'Courier New', Courier, monospace}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.header {font-size: 100;}
+#bandNames {font-size: 50;}
+#bandNamesOne {font-size: 50;}
+#bandNamesTwo {font-size: 50;}
+.paragraph {font-size: 30;}
