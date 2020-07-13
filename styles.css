@@ -1,7 +1,10 @@
 body {background: linear-gradient(to bottom right, #7A7FBA, #11C373);}
-h2, h1, p {color: white;}
-h1, h2, p {text-align: center;}
-h1, h2, p {font-family: 'Courier New', Courier, monospace}
+h1, h2, p {
+  font-family: 'Courier New', Courier, monospace;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  }
 img {
     display: block;
     margin-left: auto;
